@@ -1,0 +1,8 @@
+node_modules
+.next
+.vercel
+out
+build
+dist
+pnpm-lock.yaml
+src/convex/_generated

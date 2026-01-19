@@ -1,0 +1,31 @@
+# Dependencies
+node_modules/
+
+# Environment variables
+.env.local
+.env*.local
+
+# Next.js
+.next/
+out/
+next-env.d.ts
+
+# macOS
+.DS_Store
+
+# IDE/Tools
+.vscode/
+.idea/
+.claude/settings.local.json
+
+# Logs
+*.log
+npm-debug.log*
+pnpm-debug.log*
+
+# Build
+dist/
+build/
+
+# TypeScript
+*.tsbuildinfo
