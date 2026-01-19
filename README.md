@@ -37,8 +37,8 @@ Before starting, create accounts on the following platforms:
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
-cd <project-directory>
+git clone https://github.com/ricardofelixb/modern-quickstart.git
+cd modern-quickstart
 ```
 
 ### 2. Install Dependencies
